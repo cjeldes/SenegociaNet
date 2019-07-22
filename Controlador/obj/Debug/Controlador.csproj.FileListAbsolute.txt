@@ -1,0 +1,17 @@
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\bin\Debug\Controlador.dll
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\bin\Debug\Controlador.pdb
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\bin\Debug\LibreriaDeClases.dll
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\bin\Debug\LibreriaDeClases.pdb
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\obj\Debug\Controlador.dll
+C:\Users\cjeld\Desktop\senegocia\Senegocia\Controlador\obj\Debug\Controlador.pdb
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\bin\Debug\Controlador.dll
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\bin\Debug\Controlador.pdb
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\bin\Debug\LibreriaDeClases.dll
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\bin\Debug\LibreriaDeClases.pdb
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\obj\Debug\Controlador.dll
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\Controlador\obj\Debug\Controlador.pdb

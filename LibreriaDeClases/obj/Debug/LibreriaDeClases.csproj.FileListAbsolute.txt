@@ -1,0 +1,12 @@
+C:\Users\cjeld\Desktop\senegocia\Senegocia\LibreriaDeClases\bin\Debug\LibreriaDeClases.dll
+C:\Users\cjeld\Desktop\senegocia\Senegocia\LibreriaDeClases\bin\Debug\LibreriaDeClases.pdb
+C:\Users\cjeld\Desktop\senegocia\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.csprojAssemblyReference.cache
+C:\Users\cjeld\Desktop\senegocia\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\cjeld\Desktop\senegocia\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.dll
+C:\Users\cjeld\Desktop\senegocia\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.pdb
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\LibreriaDeClases\bin\Debug\LibreriaDeClases.dll
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\LibreriaDeClases\bin\Debug\LibreriaDeClases.pdb
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.csprojAssemblyReference.cache
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.dll
+C:\Users\cjeld\Desktop\senegocia\net\Senegocia\LibreriaDeClases\obj\Debug\LibreriaDeClases.pdb
